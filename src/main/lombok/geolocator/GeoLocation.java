@@ -1,6 +1,12 @@
 package geolocator;
 
+<<<<<<< HEAD
 
+=======
+/**
+ * Class for wrapping geolocation information about an IP address or host name.
+ */
+>>>>>>> a00fce2... Added Javadoc documentation
 @lombok.Data
 public class GeoLocation {
 
